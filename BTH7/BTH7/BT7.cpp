@@ -1,4 +1,5 @@
 //#include<iostream>
+//#include<String>
 //using namespace std;
 //bool inhoa(char a)
 //{
@@ -18,26 +19,34 @@
 //		else
 //			deminthuong++;
 //}
+//
 //int main()
 //{
-//	int deminthuong = 0;
-//	int deminhoa = 0;
-//	char a;
-//	string str;
-//	cout << "Nhap tu ky a:";
-//	cin >> a;
-//	if (inhoa(a))
-//		cout << a << " la ky tu in hoa." << endl;
-//	else
-//		cout << a << " khong phai la ky tu in hoa." << endl;
-//	if (inthuong(a))
-//		cout << a << " la ky tu in thuong." << endl;
-//	else
-//		cout << a << " khong phai la ky tu in thuong." << endl;
-//	cout << "Nhap chuoi: ";
-//	cin >> str;
-//	dem(deminhoa, deminthuong, str);
-//	cout << "\nSo ky tu in hoa: " << deminhoa << endl;
-//	cout << "So ky tu in thuong: " << deminthuong << endl;
-//	return 0;
+//    int deminthuong = 0;
+//    int deminhoa = 0;
+//    string str;
+//
+//    char a;
+//    cout << "Nhap tu ky a:";
+//    cin >> a;
+//
+//    if (inhoa(a))
+//        cout << a << " la ky tu in hoa." << endl;
+//    else
+//        cout << a << " khong phai la ky tu in hoa." << endl;
+//
+//    if (inthuong(a))
+//        cout << a << " la ky tu in thuong." << endl;
+//    else
+//        cout << a << " khong phai la ky tu in thuong." << endl;
+//    cin.ignore();
+//    cout << "Nhap chuoi: ";
+//    getline(cin, str);
+//
+//    dem(deminhoa, deminthuong, str);
+//
+//    cout << "\nSo ky tu in hoa: " << deminhoa << endl;
+//    cout << "So ky tu in thuong: " << deminthuong << endl;
+//
+//    return 0;
 //}

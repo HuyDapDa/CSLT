@@ -140,11 +140,18 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="BT1.cpp" />
+    <ClCompile Include="BT10.cpp" />
+    <ClCompile Include="BT11.cpp" />
+    <ClCompile Include="BT12.cpp" />
+    <ClCompile Include="BT13.cpp" />
     <ClCompile Include="BT2.cpp" />
     <ClCompile Include="BT3.cpp" />
     <ClCompile Include="BT4.cpp" />
     <ClCompile Include="BT5.cpp" />
     <ClCompile Include="BT6.cpp" />
+    <ClCompile Include="BT7.cpp" />
+    <ClCompile Include="BT8.cpp" />
+    <ClCompile Include="BT9.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
