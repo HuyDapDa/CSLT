@@ -1,4 +1,15 @@
-﻿  BT11.cpp
+﻿  BT1.cpp
+  BT10.cpp
+  BT11.cpp
   BT12.cpp
+  BT2.cpp
+  BT3.cpp
+  BT4.cpp
+  BT5.cpp
+  BT6.cpp
+  BT7.cpp
+  BT8.cpp
+  BT9.cpp
   Generating Code...
-  BTH5.vcxproj -> E:\NGO\CSLT\BTH5\Debug\BTH5.exe
+  LINK : E:\NGO\CSLT\CSLT\BTH4\Debug\BTH5.exe not found or not built by the last incremental link; performing full link
+  BTH5.vcxproj -> E:\NGO\CSLT\CSLT\BTH4\Debug\BTH5.exe

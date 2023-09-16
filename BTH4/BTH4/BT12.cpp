@@ -2,7 +2,7 @@
 //using namespace std;
 //int main()
 //{
-//	int n,chs;
+//	int n,chs,tam;
 //	int i = 0;
 //	do
 //	{
@@ -11,11 +11,12 @@
 //		if (n <= 0)
 //			cout <<"Nhap sai, nhap lai!!!\n";
 //	} while (n<=0);
-//	while (n>0)
+//  tam=n;
+//	while (tam>0)
 //	{
-//		chs = n % 10;
+//		chs = tam % 10;
 //		i = i * 10 + chs;
-//		n = n / 10;
+//		tam = tam / 10;
 //	}
 //	cout << "Ket qua: ";
 //	while (i > 0)

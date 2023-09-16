@@ -4,7 +4,7 @@
 //{
 //	int n;
 //	int i = 1;
-//	int tongtich = 1;
+//	int tich = 1;
 //	do
 //	{
 //		cout << "Nhap n: ";
@@ -14,10 +14,10 @@
 //	} while (n<=1);
 //	while (i<=n)
 //	{
-//		tongtich *= i;
+//		tich *= i;
 //		i += 2;
 //	}
-//	cout << "Tong tich cac so le tu 1 den " << n << " la " << tongtich << endl;
+//	cout << "Tich cac so le tu 1 den " << n << " la " << tich << endl;
 //  system("pause");
 //  return 0;
 //}
